@@ -1,5 +1,5 @@
-import Header from "../src/componentes/Header/Header"
-import Hero from "../src/componentes/Hero/Hero"
+// import Header from "../src/componentes/Header/Header"
+import Hero from "./componentes/Hero/Hero.jsx"
 import { perfil } from "./data/perfil"
 
 
